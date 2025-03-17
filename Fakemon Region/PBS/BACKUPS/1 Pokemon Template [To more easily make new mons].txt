@@ -1,0 +1,30 @@
+﻿#-------------------------------
+[]
+Name = 
+Types = 
+BaseStats = 
+GenderRatio = 
+GrowthRate = 
+BaseExp =
+EVs = 
+CatchRate =
+Happiness = 
+Abilities =
+HiddenAbilities =
+Moves = 
+TutorMoves = 
+EggGroups =
+HatchSteps = 
+Height = 
+Weight = 
+Color = 
+Shape = 
+Habitat =
+Category = 
+Pokedex = 
+Generation = 
+Flags =
+WildItemCommon = 
+WildItemUncommon =
+WildItemRare =
+#-------------------------------

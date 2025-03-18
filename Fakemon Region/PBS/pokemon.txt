@@ -98,6 +98,56 @@ Habitat = Urban
 Category = Zombie Flower
 Pokedex = Zarum will consume any organic being that touches it dead or alive, Adding their body to their own. It uses spiritual energy to keep the meat alive in order to sustain from it. 
 #-------------------------------
+[RABBLADE]
+Name = Rabblade
+Types = Normal
+BaseStats = 50,70,54,90,20,45
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 100
+EVs = SPEED,1
+CatchRate = 200
+Happiness = 80
+Abilities = SUPERLUCK
+HiddenAbilities = SHARPNESS
+Moves= 1,Tackle
+TutorMoves = 1,Tackle
+EggGroups = FIELD
+HatchSteps = 4500
+Height = 4.0
+Weight =  20.0
+Color = YELLOW
+Shape = BipedalTail
+Habitat = Forest
+Category = Rabbit
+Pokedex = Rabblade are biggest poopyheads n the pokemon world, This is because there is no dex entry yet, But one is needed so stuff works. nehehe
+#-------------------------------
+#-------------------------------
+[GUILLARGO]
+Name = Guillargo
+Types = STEEL,NORMAL
+BaseStats = 69,100,121,46,60,60
+GenderRatio = Female50Percent
+GrowthRate = Medium
+BaseExp = 100
+EVs = SPEED,2
+CatchRate = 200
+Happiness = 80
+Abilities = SUPERLUCK
+HiddenAbilities = SHARPNESS
+Moves= 1,Tackle
+TutorMoves = 1,Tackle
+EggGroups = FIELD
+HatchSteps = 3500
+Height = 7.0
+Weight =  500.0
+Color = WHOTE
+Shape = BipedalTail
+Habitat = Forest
+Category = Executioner 
+Pokedex = Rabblade are biggest poopyheads n the pokemon world, This is because there is no dex entry yet, But one is needed so stuff works. nehehe
+#-------------------------------
+#-------------------------------
 #-------------------------------
 #--------VVV OLD MONS VVV-------
 #-------------------------------

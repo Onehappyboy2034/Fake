@@ -932,7 +932,7 @@ Category = Physical
 Power = 120
 Accuracy = 85
 TotalPP = 5
-Target = Nearother
+Target = NearOther
 FunctionCode = FlinchTarget
 Flags = Contact,CanProtect,CanMirrorMove,TramplesMinimize
 EffectChance = 20
@@ -1228,7 +1228,7 @@ Type = ELECTRIC
 Category = Physical
 Power = 120
 Accuracy = 95
-TotalPP = 
+TotalPP = 10
 Target = NearOther
 FunctionCode = RecoilQuarterOfDamageDealt
 Flags = Contact,CanProtect,CanMirrorMove
@@ -9843,7 +9843,7 @@ Description = Wraps the target in a toxic, corrosive chain. This may also leave 
 #-------------------------------
 [EXOCRASH]
 Name = Exocrash
-Type = Bug
+Type = BUG
 Category = Physical
 Power = 120
 Accuracy = 95
@@ -9856,7 +9856,7 @@ Description = The user slams their hardened exoskeleton into the target dealing 
 #-------------------------------
 [FAIRYTAIL]
 Name = Fairy Tail
-Type = Fairy
+Type = FAIRY
 Category = Physical
 Power = 40
 Accuracy = 100
@@ -9868,7 +9868,7 @@ Description = The user slaps the target with their tail, Dealing a small amount 
 #-------------------------------
 [ARCANEASSAULT]
 Name = Arcane Assault
-Type = Fairy
+Type = FAIRY
 Category = Physical
 Power = 120
 Accuracy = 90
@@ -9880,7 +9880,7 @@ Description = The user uses a majority of their energy on a single strong attack
 #-------------------------------
 [MYSTICFIST]
 Name = Mystic Fist
-Type = Fairy
+Type = FAIRY
 Category = Physical
 Power = 75
 Accuracy = 100
@@ -9906,7 +9906,7 @@ Description = The user quickly stabs the opponent with their horn, This move dep
 #-------------------------------
 [INFECTIOUSJAB]
 Name = Infectious Jab
-Type = Poison
+Type = POISON
 Category = Physical
 Power = 40
 Accuracy = 100
@@ -9919,7 +9919,7 @@ Description = The user swiftly jabs the target with their horn, It has a high ch
 #-------------------------------
 [CRYOGENICTOXINS]
 Name = Cryogenic Toxins
-Type = Ice
+Type = ICE
 Category = Status
 Accuracy = 90
 TotalPP = 5
@@ -9961,7 +9961,7 @@ Power = 76
 Accuracy = 100
 TotalPP = 10
 Target = NearOther
-FunctionCode = DoublePowerIfTargetParalyzedCureTarget
+FunctionCode = Panacea
 Flags = CanProtect,CanMirrorMove
 Description = The user injects the user with disease fighting agents that do more harm then good, Even more so if the target is poisoned. Curing them of their status.
 #-------------------------------

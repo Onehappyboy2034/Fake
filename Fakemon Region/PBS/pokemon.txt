@@ -1,7 +1,7 @@
 ﻿#-------------------------------
 [Drabaa]
 Name = Drabaa
-Types = Normal
+Types = NORMAL
 BaseStats = 57,39,40,43,33,35
 GenderRatio = Female50Percent
 GrowthRate = Medium
@@ -11,8 +11,8 @@ CatchRate = 240
 Happiness = 50
 Abilities = FLUFFY
 HiddenAbilities = OVERCOAT
-Moves = 
-TutorMoves = 
+Moves= 1,TACKLE
+TutorMoves = TACKLE
 EggGroups = Field
 HatchSteps = 3000
 Height = 2.0
@@ -23,11 +23,10 @@ Habitat = Forest
 Category = Spindal
 Pokedex = Drabaa developed a thick layer of wool in order to stay warm, it also serves as protection in case they tumble.
 WildItemRare = ORANBERRY
-Evolutions = OOLALLAMA,27
 #-------------------------------
 [OOLALLAMA]
 Name = Oolallama
-Types = Normal
+Types = NORMAL
 BaseStats = 57,39,40,43,33,35
 GenderRatio = Female50Percent
 GrowthRate = Medium
@@ -37,8 +36,8 @@ CatchRate = 240
 Happiness = 75
 Abilities = FURCOAT
 HiddenAbilities = DAZZLING
-Moves = 
-TutorMoves = 
+Moves= 1,TACKLE
+TutorMoves = TACKLE
 EggGroups = Field
 HatchSteps = 3000
 Height = 6.0
@@ -52,7 +51,7 @@ WildItemRare = ORANBERRY
 #-------------------------------
 [TUBTILE]
 Name = Tubtile
-Types = Poison,Steel
+Types = POISON,STEEL
 BaseStats = 65,68,75,90,62,95
 GenderRatio = Female50Percent
 GrowthRate = Medium
@@ -62,8 +61,8 @@ CatchRate = 240
 Happiness = 75
 Abilities = LIQUIDOOZE
 HiddenAbilities = CORROSION
-Moves= 1,MUDDYWATER.1,RECYCLE,1,ACID,1,TACKLE1,GROWL3,POISONGAS5,5,MUDSLAP8,BITE,8,ACID,12,SLUDGE,12,MUDSHOT,16,THIEF,22,MUDBOMB,27,TOXIC,27,VENOSHOCK,29,VENOMDRENCH,32,SEWAGESPULL,32,IRONDEFENSE,37,IRONHEAD,42,SLUDGEWAVE,47,SHELLSMASH,52,FLASHCANON,56,GUNKSHOT,62,MUDDYWATER
-TutorMoves = HOLDBACK,ENCORE,FACADE,PROTECT,SLEEPTALK,YAWN,BULLETSEED,AQUATAIL,POUNCE,SKITTERSMACK,XSCISSOR,AERIALACE,BODYPRESS,BRICKBREAK,LOWKICK,POISONJAB,SLUDGEWAVE,TOXIC,CLEARSMOG,POISONJAB,AGILTY,ZENHEADBUTT,SCALESHOT,DRAGONTAIL,FLASHCANON,IRONHEAD,SMARTSTRIKE,DARKPULSE,NASTYPLOT,SNARL,TAUNT,TORMENT,THROATCHOP,PLAYROUGH,SUPERFANG,CRUNCH,METRONOME,DOUBLEEDGE,TOXICSPIKES,
+Moves= 1,TACKLE
+TutorMoves = TACKLE
 EggGroups = Monster
 HatchSteps = 3500
 Height = 4.0
@@ -76,7 +75,7 @@ Pokedex = It loiters in garbage dumps and back alleys, It will attack any pokemo
 #-------------------------------
 [ZARUM]
 Name = Zarum
-Types = Ghost,Poison
+Types = GHOST,POISON
 BaseStats = 126,110,88,19,80,67
 GenderRatio = Female50Percent
 GrowthRate = Medium
@@ -86,8 +85,8 @@ CatchRate = 240
 Happiness = 10
 Abilities = POISONPOINT
 HiddenAbilities = EARTHEATER
-Moves= 1,Tackle
-TutorMoves = 1,Tackle
+Moves= 1,TACKLE
+TutorMoves = TACKLE
 EggGroups = Monster
 HatchSteps = 3500
 Height = 2.0
@@ -100,7 +99,7 @@ Pokedex = Zarum will consume any organic being that touches it dead or alive, Ad
 #-------------------------------
 [RABBLADE]
 Name = Rabblade
-Types = Normal
+Types = NORMAL
 BaseStats = 50,70,54,90,20,45
 GenderRatio = Female50Percent
 GrowthRate = Medium
@@ -110,18 +109,17 @@ CatchRate = 200
 Happiness = 80
 Abilities = SUPERLUCK
 HiddenAbilities = SHARPNESS
-Moves= 1,Tackle
-TutorMoves = 1,Tackle
-EggGroups = FIELD
+Moves= 1,TACKLE
+TutorMoves = TACKLE
+EggGroups = Field
 HatchSteps = 4500
 Height = 4.0
 Weight =  20.0
-Color = YELLOW
+Color = White
 Shape = BipedalTail
 Habitat = Forest
 Category = Rabbit
 Pokedex = Rabblade are biggest poopyheads n the pokemon world, This is because there is no dex entry yet, But one is needed so stuff works. nehehe
-#-------------------------------
 #-------------------------------
 [GUILLARGO]
 Name = Guillargo
@@ -135,13 +133,13 @@ CatchRate = 200
 Happiness = 80
 Abilities = SUPERLUCK
 HiddenAbilities = SHARPNESS
-Moves= 1,Tackle
-TutorMoves = 1,Tackle
-EggGroups = FIELD
+Moves= 1,TACKLE
+TutorMoves = TACKLE
+EggGroups = Field
 HatchSteps = 3500
 Height = 7.0
 Weight =  500.0
-Color = WHOTE
+Color = White
 Shape = BipedalTail
 Habitat = Forest
 Category = Executioner 

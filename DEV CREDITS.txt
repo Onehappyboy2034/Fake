@@ -20,9 +20,7 @@ TBA
 
 
 Design Contributors:
-TBHA
-
-Test tickle
+TBA
 
 GEN 9 SCRIPT:
 

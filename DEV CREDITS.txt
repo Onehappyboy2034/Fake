@@ -2,7 +2,8 @@ For in depth credits please read the doc: [INSERT DOC HERE LATER]
 
 
 Spriters:
-TBA
+allwhitecocaine
+Spider26
 
 
 Composers:
@@ -10,8 +11,8 @@ TBA
 
 
 Coders:
-TBA
-
+Onehappyboy
+I'mBadAtStuff
 
 
 Beta Testers:
@@ -117,3 +118,7 @@ https://docs.google.com/spreadsheets/d/1T-KC-4XDOeFKq0Z6tfN6Sz4JIlpaK7B8A0lbmBg9
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+Free Use Sprite credits
+
+
+Shiney570 and Phyromatica for the grassland tileset

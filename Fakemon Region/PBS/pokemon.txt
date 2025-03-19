@@ -124,7 +124,7 @@ Pokedex = Rabblade are biggest poopyheads n the pokemon world, This is because t
 [GUILLARGO]
 Name = Guillargo
 Types = STEEL,NORMAL
-BaseStats = 69,100,121,46,60,60
+BaseStats = 69,100,60,121,42,60
 GenderRatio = Female50Percent
 GrowthRate = Medium
 BaseExp = 100

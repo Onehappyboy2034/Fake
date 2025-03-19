@@ -144,6 +144,7 @@ Shape = BipedalTail
 Habitat = Forest
 Category = Executioner 
 Pokedex = Rabblade are biggest poopyheads n the pokemon world, This is because there is no dex entry yet, But one is needed so stuff works. nehehe
+#------------------------------
 #-------------------------------
 #-------------------------------
 #-------------------------------

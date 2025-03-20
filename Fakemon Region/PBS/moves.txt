@@ -9917,6 +9917,17 @@ FunctionCode = AlwaysCriticalHit
 Flags = CanProtect,CanMirrorMove,Contact,Slicing
 Description = The user swiftly jabs the target with their horn, It has a high chance to land a critical hit.
 #-------------------------------
+[CRYOGEN]
+Name = Cryogenic Toxins
+Type = ICE
+Category = Status
+Accuracy = 70
+TotalPP = 15
+Target = NearOther
+FunctionCode = SleepTarget
+Flags = CanProtect,CanMirrorMove
+Description = The user cools down the opponent causing them to fall into a deep sleep
+#-------------------------------
 [CRYOGENICTOXINS]
 Name = Cryogenic Toxins
 Type = ICE
@@ -9926,7 +9937,7 @@ TotalPP = 5
 Target = NearOther
 FunctionCode = SleepTarget
 Flags = CanProtect,CanMirrorMove
-Description = The user injects the target with a cold liquid which causes them to fall asleep
+Description = The user injects the target with a cold liquid which can either cause them to fall asleep, Get paralyized, Or get frostbite.
 #-------------------------------
 [SPIRITBURST]
 Name = Spirit Burst
